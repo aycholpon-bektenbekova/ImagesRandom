@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ImagesRandom</string>
+    <string name="url_image">url image</string>
+    <string name="submit">submit</string>
+    <string name="random">random</string>
+    <string name="not_image">this is not image</string>
+    <string name="image_from_internet">image from internet</string>
+</resources>
